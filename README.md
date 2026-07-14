@@ -48,4 +48,5 @@ This project was developed as part of the **Prodigy InfoTech Web Development Int
 
 **Pushkar Joshi**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Pjoshi0918
+Linkedin : https://www.linkedin.com/in/pushkar-joshi-96630b32b
